@@ -150,8 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of Obsidian on Git !"
             }
+          },
+          {
+            "id": "c2bca5bc5e6d281d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a776ef4e21acb12",
+  "active": "24bb82aecf17a170",
   "lastOpenFiles": [
     "Obsidian on Git !.md"
   ]
